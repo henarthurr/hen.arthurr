@@ -1,12 +1,4 @@
 <h3>Welcome to my profile 😎👌</h3>
-
-<div align="center">
-  <a href="https://github.com/henarthurr">
-    <img src="https://github-readme-stats.vercel.app/api?username=henarthurr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Card Star" height="180em"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henarthurr&hide=html&layout=compact&theme=dracula" alt="Card Star" height="180em"/>
-  </a>
-</div>
-
 <br>
 
 <div align="center">
