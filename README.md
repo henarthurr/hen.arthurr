@@ -13,11 +13,11 @@
 
 <br>
 
-<div align="center">
-  <a href="https://spotify.com" target="_blank">
-    <img src="https://shields.io" alt="Spotify Track"/>
+<p align="center">
+  <a href="https://spotify.com">
+    <img src="https://shields.io" alt="Spotify">
   </a>
-</div>
+</p>
 
 <br>
 
