@@ -15,11 +15,12 @@
 
 <div align="center">
   <a href="https://spotify.com" target="_blank">
-    <img src="https://vercel.app" alt="Listening to Spotify" width="350">
+    <img src="https://shields.io" alt="Spotify Track"/>
   </a>
 </div>
 
 <br>
+
 
 <div align="center">
   <a href="https://www.instagram.com/hen.arthurr" target="_blank">
