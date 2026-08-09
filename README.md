@@ -1,7 +1,7 @@
 <h3>Welcome to my profile 😎👌</h3>
 <br>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=henarthurr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=henarthurr&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=henarthurr&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)
 
 <br>
 
