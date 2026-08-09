@@ -13,15 +13,6 @@
 
 <br>
 
-<p align="center">
-  <a href="https://spotify.com">
-    <img src="https://shields.io" alt="Spotify">
-  </a>
-</p>
-
-<br>
-
-
 <div align="center">
   <a href="https://www.instagram.com/hen.arthurr" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
