@@ -11,14 +11,21 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
 </div>
 
-[![Listen on Spotify](https://shields.io)]([https://spotify.com](https://open.spotify.com/embed/track/5v2cGEJcILks1F4X66wzLw?))
+<br>
+
+<div align="center">
+  <a href="https://spotify.com" target="_blank">
+    <img src="https://vercel.app" alt="Listening to Spotify" width="350">
+  </a>
+</div>
 
 <br>
 
 <div align="center">
   <a href="https://www.instagram.com/hen.arthurr" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
-
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
   <a href="https://www.linkedin.com/in/rahmf/" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
-</center>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin"/>
+  </a>
+</div>
