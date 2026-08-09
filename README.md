@@ -11,7 +11,7 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
 </div>
 
-[![Listen on Spotify](https://shields.io)](https://spotify.com)
+[![Listen on Spotify](https://shields.io)]([https://spotify.com](https://open.spotify.com/embed/track/5v2cGEJcILks1F4X66wzLw?))
 
 <br>
 
