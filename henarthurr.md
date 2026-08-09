@@ -11,3 +11,6 @@ CCP - 2025.1<br>Vasco da Gama.<br>Maranhense.
 ![](https://github-stats-extended.vercel.app/api?username=henarthurr&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=henarthurr&theme=dark&hide_border=false)<br/>
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=henarthurr&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+#**Spotify:**:
+[![Spotify](https://hen-arthurr.vercel.app/api/orchestrator)](https://open.spotify.com/user/henarthurr)
