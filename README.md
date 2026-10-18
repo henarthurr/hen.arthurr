@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Arthur 👋</h1>
+<h1 align="center">Olá, meu nome é Arthur Henrique 👋</h1>
 
 <p align="center">
   💻 Bacharelando em Ciência da Computação (UFMA) <br>
@@ -44,5 +44,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/henarthurr/henarthurr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/henarthurr/hen.arthurr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
