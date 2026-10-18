@@ -44,5 +44,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/henarthurr/henarthurr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/henarthurr/henarthurr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
