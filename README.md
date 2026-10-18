@@ -9,7 +9,10 @@
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
   <a href="https://www.instagram.com/hen.arthurr" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://wakatime.com/@ac05ab22-ce28-4c92-be39-b63a09faa73f" target="_blank">
+    <img src="https://img.shields.io/badge/-WakaTime-000000?style=flat-square&logo=wakatime&logoColor=white" alt="WakaTime"/>
   </a>
 </p>
 
@@ -38,3 +41,8 @@
 - 🔭 Trabalhando em projetos com **Java & Spring Boot**
 - 📚 Aprofundando estudos em **Estruturas de Dados e Algoritmos em C**
 - 💬 Fique à vontade para entrar em contato via LinkedIn!
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/henarthurr/henarthurr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
