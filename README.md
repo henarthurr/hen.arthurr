@@ -26,10 +26,9 @@
 
 ### 📊 Estatísticas & WakaTime
 
-<div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=henarthurr&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=henarthurr&theme=github_dark" />
-</div>
+<a href="https://wakatime.com/@ac05ab22-ce28-4c92-be39-b63a09faa73f">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ac05ab22-ce28-4c92-be39-b63a09faa73f&theme=github_dark" alt="WakaTime Stats" />
+</a>
 
 ---
 
