@@ -1,8 +1,7 @@
 <h1 align="center">Olá, eu sou o Arthur 👋</h1>
 
 <p align="center">
-  💻 Bacharelado em Ciência da Computação (UFMA) <br>
-  🚀 Focado em Desenvolvimento Back-end (Java / Spring Boot) e Engenharia de Software
+  💻 Bacharelando em Ciência da Computação (UFMA) <br>
 </p>
 
 <p align="center">
